@@ -1,4 +1,4 @@
-# Bunjruter
+# Bunjruter - Multi-Tool GUI Application
 
 ![ezgif-2-c5ba3cf629](https://github.com/BunjoThe/Bunjruter/assets/138582603/1a28527c-24ac-49cb-bdbe-648cce3e2de6)
 
