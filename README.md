@@ -2,8 +2,6 @@
 
 ![ezgif-2-c5ba3cf629](https://github.com/BunjoThe/Bunjruter/assets/138582603/1a28527c-24ac-49cb-bdbe-648cce3e2de6)
 
-#hash_generator #hash #python #base64 #dictionary_attack #ftp_brute_force #brute_force #password generator
-
 Project Description: Bunjruter - Multi-Tool GUI Application
 
 This project defines a Python-based graphical user interface (GUI) application named "Bunjruter." The application offers various user tools and functions to facilitate different data processing and security tasks. Here are the key components and functions of the project:
@@ -25,3 +23,5 @@ Dictionary Attack: Users can perform a dictionary attack by reading password att
 Info Page: This feature displays text that explains the purpose and usage of the application. It also emphasizes that the project is intended for educational purposes.
 
 This project aims to provide users with various tools and options to address different data processing and security scenarios. Users can perform fundamental tasks such as text encryption, hash generation, password creation, and security testing. The project's source code is open-source and can be further developed or customized.
+
+#hash_generator #hash #python #base64 #dictionary_attack #ftp_brute_force #brute_force #password generator
