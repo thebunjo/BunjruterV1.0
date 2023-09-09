@@ -395,7 +395,7 @@ def hash_generator_window():
 
         if not text_to_hash:
             generated_hash_result.delete(0, tk.END)
-            generated_hash_result.insert(0, "Boş.")
+            generated_hash_result.insert(0, "Empty.")
             return
 
         if selected_hash_type == "MD5":
